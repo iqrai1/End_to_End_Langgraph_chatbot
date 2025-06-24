@@ -13,7 +13,7 @@ This is an end-to-end agentic AI chatbot project built using [LangGraph](https:/
 
 ## Demo
 
-![LangGraph Agentic AI Screenshot](./assets/demo-screenshot.png)
+![LangGraph Agentic AI Screenshot](https://github.com/iqrai1/End_to_End_Langgraph_chatbot/blob/main/Screenshot%202025-06-25%20001235.png)
 
 ## Tech Stack
 
